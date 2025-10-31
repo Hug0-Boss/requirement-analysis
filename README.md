@@ -38,6 +38,8 @@ The requirements are then encaptured in a detailed document that lists all funct
 **Requirement Analysis & Modeling 📚🛠️:**
 The requirements are analysed, prioritizing them based on their importance and impact on the project. Then they are represented visually through tools such as flowcharts, data flow diagrams (DFDs), or use case diagrams. This step helps make the requirements actionable by defining system behavior and user interaction.
 
+##
+
 ## **Types of Requirements**
 
 
@@ -48,18 +50,23 @@ The requirements are analysed, prioritizing them based on their importance and i
 
 ### Non-functional Requirements🏅🎖️:
 
+## 
 
 
 
 ## **Use Case Diagrams.🖼️**
 
-
+<img width="2664" height="633" alt="alx-booking-uc.png" src="https://github.com/user-attachments/assets/6aed8704-5968-46cb-9731-b63bbc15132b" />
 
 ##
 
 ## **⚖️Acceptance Criteria.**
 
 
+
+
+##
+![InConclusionRudyGiulianiGIF](https://github.com/user-attachments/assets/75ae74c2-5caf-4d61-9613-3baeccc93480)
 
 ![InConclusionEricAdamsGIF](https://github.com/user-attachments/assets/aeaee527-27d3-43f9-8e76-f4a5aed68cb7)
 
