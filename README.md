@@ -8,7 +8,7 @@
 **Requirement Validation✅:**
 Finally, the requirements are validated by stakeholders to confirm that they meet user needs, align with business goals, and comply with technical constraints. This step minimizes the risk of misunderstandings later in the project.
 
-## **Why is Requirement Analaysis Important?**
+## **Why is Requirement Analysis Important?**
 #### Requirement Analysis plays a vital role in ensuring project success. Its importance can be summarized as follows:
 
 ✅ Prevents Scope Creep: By clearly defining the project scope early, it minimizes uncontrolled changes later.
@@ -20,6 +20,8 @@ Finally, the requirements are validated by stakeholders to confirm that they mee
 ✅ Enhances Decision-Making: Provides a structured basis for consistent and informed decisions throughout the project.
 
 ✅ Reduces Rework and Cost: Early identification of requirements minimizes the need for costly changes in later phases.
+
+##
 
 ## **Key Activities in Requirement Analysis:**
 #### During this phase, ideas are formulated, examined, and either approved or discarded based on feasibility and alignment with business goals. The process generally involves five main activities:
@@ -35,6 +37,27 @@ The requirements are then encaptured in a detailed document that lists all funct
 
 **Requirement Analysis & Modeling 📚🛠️:**
 The requirements are analysed, prioritizing them based on their importance and impact on the project. Then they are represented visually through tools such as flowcharts, data flow diagrams (DFDs), or use case diagrams. This step helps make the requirements actionable by defining system behavior and user interaction.
+
+## **Types of Requirements**
+
+
+
+### Functional Requirements🏅🎖️:
+
+
+
+### Non-functional Requirements🏅🎖️:
+
+
+
+
+## **Use Case Diagrams.🖼️**
+
+
+
+##
+
+## **⚖️Acceptance Criteria.**
 
 
 
